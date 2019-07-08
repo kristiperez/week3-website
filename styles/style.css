@@ -1,0 +1,27 @@
+body {
+
+    background-image: url(../images/background.png);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+
+}
+
+.menu {
+
+    background-color: white;
+    color: blue;
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    margin: 21px auto;
+
+}
+
+li {
+    display:inline;
+    padding: 21px 40px;
+}
